@@ -25,6 +25,7 @@ tripadvisor-clone/
 ├── style.css
 └── assets/
     └── images/
+
 📌 Note
 This project is for educational and portfolio purposes only and is not affiliated with the official TripAdvisor site.    
     
