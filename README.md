@@ -16,15 +16,14 @@ No JavaScript or backend — purely static
 Click here to view the live site (https://coderaajiv.github.io/Tripadvisor-clone/)
 
 📁 Folder Structure
-markdown
-Copy
-Edit
+
 tripadvisor-clone/
 │
 ├── index.html
 ├── style.css
 └── assets/
     └── images/
+
 
 📌 Note
 This project is for educational and portfolio purposes only and is not affiliated with the official TripAdvisor site.    
