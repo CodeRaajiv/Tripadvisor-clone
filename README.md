@@ -16,7 +16,6 @@ No JavaScript or backend — purely static
 Click here to view the live site (https://coderaajiv.github.io/Tripadvisor-clone/)
 
 📁 Folder Structure
-
 tripadvisor-clone/
 │
 ├── index.html
